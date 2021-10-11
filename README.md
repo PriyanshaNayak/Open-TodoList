@@ -1,2 +1,2 @@
 # Open-TodoList
-A basic Todo list made with Bootstrap CSS and JavaScript to brush up Array methods in JavaScript. 
+This repository is a basic To-Do list made with Bootstrap CSS and JavaScript to brush up array methods in JavaScript.
